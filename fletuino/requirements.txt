@@ -1,0 +1,3 @@
+'flet[all]'
+paho-mqtt
+pyserial
